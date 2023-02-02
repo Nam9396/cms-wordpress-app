@@ -19,6 +19,6 @@
 // }
 module.exports = {
   images: {
-    domains: ['bekhoebengoan.site'],
+    domains: ['bekhoebengoan.site', 'secure.gravatar.com', '0.gravatar.com', '1.gravatar.com', '2.gravatar.com'],
   },
 }
