@@ -17,3 +17,8 @@
 //     ],
 //   },
 // }
+module.exports = {
+  images: {
+    domains: ['bekhoebengoan.site'],
+  },
+}
